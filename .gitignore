@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+*.egg-info/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Downloads
+downloads/
+
+# Browser session
+data/browser_state/
+
+# IDE
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
